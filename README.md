@@ -141,10 +141,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Build game board and logic in React.
      - **Reading:** [React State Management](https://reactjs.org/docs/hooks-state.html)
-     - **Video:** [React Tic Tac Toe Tutorial](https://www.youtube.com/watch?v=Zmo5k3MmaMg)
+     - **Video:** [React Tic Tac Toe Tutorial](https://www.youtube.com/watch?v=-bEzt5ISACA&t=485s)
   2. Integrate real-time gameplay using WebSocket connections.
      - **Reading:** [WebSocket API](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
-     - **Video:** [WebSocket in React](https://www.youtube.com/watch?v=NEtB6v7zmZQ)
+     - **Video:** [WebSocket in React](https://www.youtube.com/watch?v=favi7avxIag)
 
 - **Deliverables:**
   - Functional Tic Tac Toe game with real-time synchronization.
