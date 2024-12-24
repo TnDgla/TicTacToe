@@ -1,6 +1,6 @@
 ---
 
-### **Project Name: Tic Tac Toe Multiplayer App**
+# **Project Name: Tic Tac Toe Multiplayer App**
 
 **Tic Tac Toe Multiplayer App** is a full-stack web application allowing users to play Tic Tac Toe in real-time with another player while chatting simultaneously. It features authentication, multiplayer functionality, and a built-in chat system powered by the Stream API.
 
