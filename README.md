@@ -129,7 +129,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [JWT Authentication Guide](https://www.youtube.com/watch?v=mbsmsi7l3r4)
   3. Integrate cookies for session management.
      - **Reading:** [Managing Cookies in JavaScript](https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie)
-     - **Video:** [Cookies in JavaScript](https://www.youtube.com/watch?v=5o25hvgZ6No)
+     - **Video:** [Cookies in JavaScript](https://www.youtube.com/watch?v=sHrwueeeMmY)
 
 - **Deliverables:**
   - Fully functional login/signup system with session management.
