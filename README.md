@@ -170,11 +170,11 @@ This project is structured to ensure a systematic and incremental development pr
 - **Goal:** Deploy the application and ensure it’s production-ready.
 - **Tasks:**
   1. Test all features using Postman and React Testing Library.
-     - **Reading:** [API Testing with Postman](https://learning.postman.com/docs/testing/)
+     - **Reading:** [API Testing with Postman](https://www.postman.com/api-platform/api-testing/)
      - **Video:** [Postman Tutorial](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
   2. Deploy frontend and backend.
      - **Reading:** [Deploying React Apps](https://vercel.com/docs)
-     - **Video:** [Full-Stack Deployment Guide](https://www.youtube.com/watch?v=KKyag6t98g8)
+     - **Video:** [Full-Stack Deployment Guide](https://www.youtube.com/watch?v=b2bIdtSwDhc&t=393s)
 
 - **Deliverables:**
   - Deployed application accessible via a public URL.
